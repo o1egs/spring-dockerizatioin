@@ -1,0 +1,6 @@
+ru\dockerizedapplication\repositories\ProjectRepository.class
+ru\dockerizedapplication\services\ProjectService.class
+ru\dockerizedapplication\controllers\ProjectController.class
+ru\dockerizedapplication\entities\Project.class
+ru\dockerizedapplication\ProjectServiceApplication.class
+ru\dockerizedapplication\services\ProjectServiceImpl.class
