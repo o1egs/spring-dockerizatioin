@@ -9,19 +9,12 @@
 
 ## Что делает build.sh
 
-1. Клонирует репозиторий
-   
-   git clone https://github.com/o1egs/spring-dockerizatioin.git
-   
-2. Переходит в каталог проекта
-   
-   cd spring-dockerizatioin
-   
-3. Собирает приложение с помощью Maven
+2. Собирает приложение с помощью Maven
    
    mvn clean package
 
 ## Запустите build.sh
+
   build.sh
 
 ## Запустите docker-compose
