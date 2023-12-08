@@ -24,6 +24,6 @@
 ## Запустите build.sh
   build.sh
 
-## Запустите Docker-compose
+## Запустите docker-compose
   
   docker-compose up -d
