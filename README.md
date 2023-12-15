@@ -8,6 +8,6 @@
 
 ## Сборка проекта
 -  /scripts/build.sh
--  
+ 
 ## Запуск проекта
 -  /scripts/run.sh
